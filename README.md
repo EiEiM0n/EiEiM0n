@@ -3,6 +3,6 @@ I am passionate about transforming data into actionable insights while ensuring 
 
 Areas of Interest
 🔹 Information Management 🔹 Database Administration & SQL 🔹 Cyber Security & Data Protection 🔹 Data Visualization (Power BI) 🔹 Git & GitHub Collaboration
-"Secure data. Manage information. Enable better decisions."
+## "Secure data. Manage information. Enable better decisions."
 
 
